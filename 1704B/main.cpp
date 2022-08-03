@@ -9,7 +9,7 @@ int main() {
     cin >> t;
 
     for (int i = 0; i < t; i++) {
-        long long n = 0, x = 0, c = 0, a = 0,  b = 0;
+        long long n = 0, x = 0, c = 0, a = 0, b = 0;
         cin >> n >> x;
         long long minCurrent = LLONG_MAX;
         long long maxCurrent = LLONG_MIN;
